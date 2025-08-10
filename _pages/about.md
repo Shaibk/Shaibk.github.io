@@ -19,3 +19,10 @@ My research interests span the full hardware–software stack, from next-generat
 
 - UESTC (B.Eng. in Integrated Circuit Design, Sep 2022 – Jun 2026)
 - Khalifa University (Exchange Student, Jan 2025 – May 2025)
+
+## Publications {#publications}
+
+{% assign pubs = site.publications | sort: 'year' | reverse %}
+{% for post in pubs limit: 10 %}
+  {% include archive-single.html %}
+{% endfor %}
