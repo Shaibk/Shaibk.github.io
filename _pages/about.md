@@ -11,9 +11,9 @@ Undergrad
 
 **About Me**
 
-I am currently an intern under the supervision of Professor [Jian Weng](https://were.github.io/) at KAUST, and I will graduate in 2026 from the University of Electronic Science and Technology of China under a [customized interdisciplinary curriculum](https://icse.uestc.edu.cn/info/1057/4103.htm). I am actively seeking Ph.D. opportunities in research groups dedicated to cutting-edge computer architecture.
+I am currently an remote intern in CLab under the supervision of Professor [Xinyu Chen](https://soldierchen.github.io/), and I was an intern of Professor [Jian Weng](https://were.github.io/) at KAUST during June 2025 to September 2025. I will graduate in 2026 from the University of Electronic Science and Technology of China under a [customized interdisciplinary curriculum](https://icse.uestc.edu.cn/info/1057/4103.htm). I am actively seeking Ph.D. opportunities in research groups dedicated to cutting-edge computer architecture.
 
-My research interests span the full hardware–software stack, from next-generation compilers to microprocessor architectures. I am passionate about designing innovative systems that bridge high-level programming models with efficient hardware implementations, enabling breakthroughs in performance, scalability, and adaptability.
+My research interests span the full hardware–software stack, from next-generation efficient AI to microprocessor architectures. I am passionate about designing innovative systems that bridge high-level programming models with efficient hardware implementations, enabling breakthroughs in performance, scalability, and adaptability.
 
 **Education**
 
